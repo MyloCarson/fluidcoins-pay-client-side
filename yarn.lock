@@ -932,6 +932,11 @@
     "@babel/helper-validator-identifier" "^7.16.7"
     to-fast-properties "^2.0.0"
 
+"@fluidcoins/pay.js@^0.1.14":
+  version "0.1.14"
+  resolved "https://registry.yarnpkg.com/@fluidcoins/pay.js/-/pay.js-0.1.14.tgz#8e4add784a4dcee1d6d7de1a4a95c7252e80d301"
+  integrity sha512-5IuxXGPqGNMYlsRmNbW/mtjo5FsT3zBjdoHQEidBA81Tlt7Nh4OcfhZ3BZEEw3Jnu/YlRUaBboIK6ani0baImw==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.npmmirror.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
