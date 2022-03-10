@@ -1,4 +1,4 @@
-# fluidcoins-test
+# fluidcoins-pay-client-side
 
 ## Project setup
 ```
